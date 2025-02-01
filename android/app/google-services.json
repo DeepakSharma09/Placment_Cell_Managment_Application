@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134260023303",
+    "project_id": "cupms-24e9d",
+    "storage_bucket": "cupms-24e9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134260023303:android:9780d5c175c24f495d0aa2",
+        "android_client_info": {
+          "package_name": "com.example.cupms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRZno4lItLKcouG_XAO7UkZcJVZUMAJ2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
